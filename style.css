@@ -1,0 +1,57 @@
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: #000000 ;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  justify-content: center;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.btn:Hover {
+  opacity: 0.6;
+  transition: all .3s ease-in-out;
+  background-color: #9aa5c3;
+  
+}
+.input {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  font-weight: bold;
+  border-left: 1px solid black;
+  border-top: 1px solid darkgray;
+  border-bottom: 1px solid darkgray;
+  padding: 10px;
+  width: 55vw;
+}
+
+
+
+
+.saveButton {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #d5d5d5;
+  color: #ffffff;
+  font-size: 25px;
+}
+
+
+
